@@ -8,16 +8,6 @@ CREATE TABLE `employee`.`employee` (
   PRIMARY KEY (`emp_id`));
 
 
-
-
-
-
-
-
-
-
-
-
 CREATE TABLE `employee`.`department` (
   `dept_id` INT NOT NULL,
   `dept_name` VARCHAR(45) NOT NULL,
